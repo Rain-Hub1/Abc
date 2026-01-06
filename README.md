@@ -1,5 +1,4 @@
 # Abc
 # `Ola`
-## `Jaja o apk ta pronto.`
 
-["Install apk ( Chat de conversa )"](App de Chat.apk)
+[**Chat de conversa (APK)**](https://raw.githubusercontent.com/Rain-Hub1/Abc/refs/heads/main/App%20de%20Chat.apk)
